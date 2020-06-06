@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-universal-v9"
+    }
+  },
+  "defaultProject": "angular-universal-v9",
+  "cli": {
+    "analytics": false
+  }
 }
